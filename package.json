@@ -1,0 +1,23 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "> Final exam for checking student knowledge and practical skills",
+  "main": "exam.test.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"C:\\Program Files\\nodejs\\npm.cmd\" init"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
